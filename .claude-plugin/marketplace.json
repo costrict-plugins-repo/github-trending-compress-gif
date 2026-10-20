@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "ankshvayt-plugins",
+  "description": "Claude Code plugins published by @ankshvayt.",
+  "owner": {
+    "name": "Ankur Shrivastava"
+  },
+  "plugins": [
+    {
+      "name": "compress-gif",
+      "source": "./",
+      "description": "Compress animated GIFs to under 200 KB while preserving FPS, dimensions, frame count, and color profile. Runs gifsicle and gifski in parallel and presents both outputs for visual comparison.",
+      "homepage": "https://github.com/ankshvayt/compress-gif",
+      "repository": "https://github.com/ankshvayt/compress-gif",
+      "license": "MIT",
+      "category": "media",
+      "keywords": ["gif", "compression", "gifsicle", "gifski", "optimize", "image", "animation"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "compress-gif",
+  "version": "0.1.0",
+  "description": "Compress animated GIFs to under 200 KB while preserving FPS, dimensions, and color fidelity. Runs gifsicle and gifski in parallel and presents both outputs for visual comparison.",
+  "author": {
+    "name": "Ankur Shrivastava"
+  },
+  "license": "MIT",
+  "keywords": ["gif", "compression", "gifsicle", "gifski", "optimize", "image", "animation"]
+}
